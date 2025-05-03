@@ -1,4 +1,5 @@
 # Hi! #
 I make Gorilla Tag mods and whatnot.
 ### Currently Working on: ###
-Rodobomb (Github not public so here's a short rundown: Counter-Strike inspired Gorilla Locomotion game. Can suggest features on Discord. The game is at the start of development and at the time of writing recieved it's name about an hour ago so the Discord isn't public just yet)
+- Zipuss (Funni cat Gorilla Locomotion game, I plan to put boatloads of polish on this thing.)
+- GorillaCosmetics: Reborn (A remake of the classic Gorilla Cosmetics mod)
