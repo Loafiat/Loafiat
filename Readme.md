@@ -1,5 +1,5 @@
 # Hi! #
-I make Gorilla Tag mods and whatnot.
+I games and whatnot.
 ### Currently Working on: ###
-- Zipuss (Funni cat Gorilla Locomotion game, I plan to put boatloads of polish on this thing.)
-- GorillaCosmetics: Reborn (A remake of the classic Gorilla Cosmetics mod)
+- Zipuss (FPS inspired Gorilla Locomotion game with no gun-play involved.)
+- Whatever Source Engine project I randomly decide to do.
